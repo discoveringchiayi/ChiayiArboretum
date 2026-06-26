@@ -191,7 +191,7 @@ var APP_DATA = {
           "yaw": 1.252460649252063,
           "pitch": -0.03880327204267786,
           "title": "巴西橡膠樹",
-          "text": "<img src=\"img/sample.jpg\" width=\"250\" /><br>圖片來源:&nbsp;https://cptfri.tfri.gov.tw/view.php?theme=plants&amp;subtheme=&amp;id=13438"
+          "text": "<img src=\"img/HeveaBrasiliensis.jpg\" width=\"250\" /><br>圖片來源:&nbsp;https://cptfri.tfri.gov.tw/view.php?theme=plants&amp;subtheme=&amp;id=13438"
         }
       ]
     },
