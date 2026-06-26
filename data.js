@@ -242,7 +242,7 @@ var APP_DATA = {
           "yaw": 1.8498037142651658,
           "pitch": -0.01285188109400437,
           "title": "肯氏南洋杉",
-          "text": "圖片來源:&nbsp;https://cptfri.tfri.gov.tw/view.php?theme=plants&amp;subtheme=&amp;id=13548"
+          "text": "<img src='img/AraucariaCunninghamii.jpg' width='250' />圖片來源:&nbsp;https://cptfri.tfri.gov.tw/view.php?theme=plants&amp;subtheme=&amp;id=13548"
         }
       ]
     },
